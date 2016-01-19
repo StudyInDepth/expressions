@@ -1,4 +1,4 @@
-package io.github.toandv.jex;
+package io.github.toandv.expressions;
 
 public enum Operator {
 
